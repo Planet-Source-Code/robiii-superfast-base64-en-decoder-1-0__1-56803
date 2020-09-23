@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=TestApp\Project1.vbp
+Project=Base64\CBTBase64.vbp
